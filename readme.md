@@ -17,6 +17,7 @@ SafeOneBot作为中间件，用于解决：
 - 小白不会写WebSocket / Websocket对项目结构有所波坏。
 
 ### 使用
+您可以选择下载源代码或下载[Release](https://github.com/HarcicYang/SafeOneBot/releases)。
 
 SafeOneBot使用JSON作为配置文件。`config.json`内容如下:
 
