@@ -1,0 +1,8 @@
+{
+  "log_level": "INFO",
+  "report_url": "http://127.0.0.1:1145",
+  "onebot_url": "ws://127.0.0.1:1144",
+  "listen_port": "5045",
+  "onebot_port": "5044",
+  "listen_protocol": "ForwardWebSocket"
+}
