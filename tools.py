@@ -54,7 +54,7 @@ class CQCode:
                 j += 1
                 code_type = ""
                 for k in to_code:
-                    k = k.split("=")
+                    k = k.split("=", num=1)
                     if len(k) == 1:
                         code_type = k[0]
                         continue
